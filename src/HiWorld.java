@@ -4,6 +4,7 @@ public class HiWorld {
         System.out.println("Beacon come on");
         System.out.println(666);
         System.out.println(111);
+        System.out.println(2);
 
     }
 }
