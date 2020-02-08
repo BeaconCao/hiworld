@@ -44,6 +44,9 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.2" />
   </component>
   <component name="ServiceViewManager">
     <option name="viewStates">
@@ -87,14 +90,22 @@
     <option name="LAST_COMMIT_MESSAGE" value="test beacon hi world come on" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="279" y="94" width="1208" height="812" key="CommitChangelistDialog2" timestamp="1581131785397">
+    <state x="279" y="94" width="1208" height="812" key="CommitChangelistDialog2" timestamp="1581131968294">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="279" y="94" width="1208" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581131785397" />
+    <state x="279" y="94" width="1208" height="812" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1581131968294" />
+    <state x="107" y="72" key="DiffContextDialog" timestamp="1581131962786">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="107" y="72" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1581131962786" />
     <state x="740" y="261" key="FileChooserDialogImpl" timestamp="1581131383631">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="261" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1581131383631" />
+    <state x="440" y="95" key="SettingsEditor" timestamp="1581131916666">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="95" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1581131916666" />
     <state x="552" y="242" key="Vcs.Push.Dialog.v2" timestamp="1581131526432">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
